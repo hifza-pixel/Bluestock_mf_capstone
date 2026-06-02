@@ -1,0 +1,9 @@
+DATA QUALITY SUMMARY
+
+Successfully loaded all 10 CSV datasets.
+Verified dataset structure using shape, dtypes and head().
+Checked missing values and duplicate records.
+Explored fund houses, categories, sub-categories and plans.
+Validated AMFI codes between fund_master and nav_history.
+Live NAV data fetched successfully from mfapi.in API.
+No major data quality issues identified during initial inspection.
