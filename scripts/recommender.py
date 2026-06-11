@@ -1,3 +1,11 @@
+"""
+Mutual Fund Recommendation System
+
+This script recommends the top 3 mutual funds
+based on investor risk appetite and Sharpe Ratio.
+Author: Hifza Tanveer
+Project: Bluestock Mutual Fund Capstone
+"""
 import pandas as pd
 
 performance = pd.read_csv(
